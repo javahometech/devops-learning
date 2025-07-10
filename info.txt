@@ -4,4 +4,4 @@ Banglore
 10+ years into AWS & DevOps
 Docker, Kubernetes
 AWS & Python
-I do know Jenkins
+I do know Jenkins.
