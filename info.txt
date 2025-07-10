@@ -2,3 +2,4 @@ Hari Kammana
 Banglore
 18 years experience
 10+ years into AWS & DevOps
+Docker, Kubernetes
